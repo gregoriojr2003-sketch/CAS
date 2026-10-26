@@ -1,0 +1,6 @@
+{
+  "name": "CAS 2026 - DT-SEI - INST. 1ºSGT PM GREGÓRIO",
+  "description": "Desafio Diagnóstico PMPE para o Curso de Aperfeiçoamento de Sargentos (CAS 2026) - Documentação Técnica SEI. Instrutor: 1º SGT PM Gregório.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
